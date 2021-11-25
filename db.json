@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "food": "Gimbab",
+      "fprice": "Rp. 35.000",
+      "fdetail":"Makanan ini terbuat dari nasi yang digulung dengan lembaran rumput laut kering yang diisi dengan telur, sayuran, dan daging",
+      "furl": "https://i.postimg.cc/DS9BTVJ9/gimbap.jpg",
+      "drink": "Orange Smoothie",
+      "dprice":"Rp. 20.000",
+      "ddetail":"Smoothie orange dengan campuran susu dan yogurt.",
+      "durl": "https://i.postimg.cc/Kj9vcn3H/orangesmoothie.jpg"
+    },
+    {
+      "food": "Tteokbokki",
+      "fprice": "Rp. 25.000",
+      "fdetail":"Kue beras dengan saos khas korea atau gochujang, memiliki rasa pedas dengan tekstur kenyal.",
+      "furl": "https://i.postimg.cc/sMQwqfXP/tteokbokki.jpg",
+      "drink": "Strawberry Latte",
+      "dprice":"Rp. 30.000",
+      "ddetail":"Latte dengan tambahan sirup strawberry",
+      "durl": "https://i.postimg.cc/V6X6L6P4/strawberrylatte.jpg"
+    },
+    {
+      "food": "Jajangmyeon",
+      "fprice": "Rp. 27.000",
+      "fdetail":"Olahan mie dengan tambahan saus kedelai hitam yang membuatnya berwarna gelap. Makanan ini juga biasanya ditambah topping seperti sayuran dan daging yang membuat rasanya semakin kaya.",
+      "furl": " https://i.postimg.cc/v4NttJt1/jajangmyeon.jpg",
+      "drink": "Strawberry Matcha Latte",
+      "dprice":"Rp. 40.000",
+      "ddetail":"Latte dengan tambahan sirup strawberry dan matcha.",
+      "durl": "https://i.postimg.cc/m2gbKVkm/strawberrymatchalatte.jpg"
+    },
+    {
+      "food": "Japchae",
+      "fprice": "Rp. 31.000",
+      "fdetail":"Makanan ini terbuat dari sohun atau bihun yang dicampur sayuran dan daging sapi. Japchae biasanya disajikan dengan lauk pada acara besar",
+      "furl": "https://i.postimg.cc/FdmpYjxG/japchae.jpg",
+      "drink": "Strawberry Cheese Cake Latte",
+      "dprice":"Rp. 45.000",
+      "ddetail":"Latte dengan tambahan cheese cake.",
+      "durl": "https://i.postimg.cc/RZxgNptR/strawberrycheesecakelatte.jpg"
+    },
+    {
+      "food": "Mozzarella Buldak",
+      "fprice": "Rp. 35.000",
+      "fdetail":"Ayam goreng dengan taburan cabe super pedas dan diberi topping mozzarella.",
+      "furl": "https://i.postimg.cc/FYRxcr35/mozarela.jpg",
+      "drink": "Ice Americano",
+      "dprice":"Rp. 20.000",
+      "ddetail":"Kopi hitam yang dituangkan kedalam gelas berisi es batu.",
+      "durl": "https://i.postimg.cc/YCMbBYzH/iceamericano3.jpg "
+    },
+    {
+      "food": "Maeundakbal",
+      "fprice": "Rp. 32.000",
+      "fdetail":"Olahaan ceker pedas dengan saos gochujang dan ditaburi wijen.  ",
+      "furl": "https://i.postimg.cc/dLQfHKrn/maeundakbal.jpg",
+      "drink": "Tiramisu Latte",
+      "dprice":"Rp. 35.000",
+      "ddetail":"Latte yang dicampur dengan tiramisu.",
+      "durl": "https://i.postimg.cc/3NdLSzSy/tiramisulatte.jpg"
+    },
+    {
+      "food": "Rabokki",
+      "fprice": "Rp. 21.000",
+      "fdetail":"Tteokbokki dengan tambahan mie ramyeon dilengkapi dengan saus manis gurih.",
+      "furl": " https://i.postimg.cc/zLHStxxx/raboki.jpg",
+      "drink": "Cherry Coke",
+      "dprice":"Rp. 20.000",
+      "ddetail":"Cola yang dicampur dengan sirup cherry segar.",
+      "durl": "https://i.postimg.cc/prdk63TN/cherry-coke.jpg"
+    },
+    {
+      "food": "Kimchi Pancake",
+      "fprice": "Rp. 35.000",
+      "fdetail":"Campuran adonan pancake dan kimchi yang dipotong-potong kemudian digoreng.",
+      "furl": "https://i.postimg.cc/14BCNY2F/kimchipancake.jpg",
+      "drink": "Orange Matcha Latte",
+      "dprice":"Rp. 30.000",
+      "ddetail":"Campuran Latte dengan jus orange dan matcha.",
+      "durl": "https://i.postimg.cc/63pdWnNn/orange-matcha-latte.jpg"
+    },
+    {
+      "food": "Tokebi",
+      "fprice": "Rp. 23.000",
+      "fdetail":"Terbuat dari sosis atau keju yang ditusuk, kemudian dilapisi adonan tepung.",
+      "furl": "https://i.postimg.cc/R3tp6CxC/tokebi.jpg",
+      "drink": "Sweet Bean Green Tea Latte",
+      "dprice":"Rp. 25.000",
+      "ddetail":"Latte dengan tambahan kacang merah manis.",
+      "durl": "https://i.postimg.cc/fLP0MPCQ/sweetbeangreentealatte.png"
+    },
+    {
+      "food": "Patbingsoo",
+      "fprice": "Rp. 32.000",
+      "fdetail":"Dessert berisikan es serut dan kacang merah yang manis dilengkapi dengan topping tambahan.",
+      "furl": "https://i.postimg.cc/yWHtRRNM/patbingsoo.jpg",
+      "drink": "Orange ade",
+      "dprice":"Rp. 20.000",
+      "ddetail":"Jus orange dengan tambahan soda segar.",
+      "durl": "https://i.postimg.cc/P5NbnmTD/orangeade.jpg"
+    },
+    {
+      "food": "Kimchi Sujebi",
+      "fprice": "Rp. 35.000",
+      "fdetail":"Sup dengan bahan dasar kimchi dan gochujang, didalamnya ada pangsit.",
+      "furl": "https://i.postimg.cc/YvZyCGVy/kimchisujebi.jpg",
+      "drink": "Mango Smoothie",
+      "dprice":"Rp. 20.000",
+      "ddetail":"Smoothie mangga dengan tambahan susu dan yogurt. ",
+      "durl": "https://i.postimg.cc/fLfRp4zZ/mangosmoothietapiocapearl.jpg"
+    },
+    {
+      "food": "Jjamppong",
+      "fprice": "Rp. 25.000",
+      "fdetail":"Mie kuah pedas dicampur dengan makanan laut dan gochugaru (bubuk lada merah).",
+      "furl": "https://i.postimg.cc/vmhDknmf/Jjamppong.jpg",
+      "drink": "Mineral Water",
+      "dprice":"Rp. 5.000",
+      "ddetail":"Air mineral biasa",
+      "durl": "https://i.postimg.cc/nV1Xwmr7/water.jpg"
+    }
+  ]
+}

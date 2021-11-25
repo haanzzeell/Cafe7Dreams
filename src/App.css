@@ -1,0 +1,161 @@
+.App {
+  text-align: center;
+  background-size: cover;
+}
+
+header {
+  background-color: #372b21;
+
+  margin: auto;
+
+  text-align: left;
+
+  padding: 10px 0;
+}
+
+.body {
+  background-color: #372b21;
+}
+
+footer {
+  display: flex;
+
+  position: fixed;
+
+  bottom: 0;
+
+  left: 0;
+
+  background-color: #372b21;
+
+  width: 100%;
+
+  justify-content: space-around;
+
+  align-items: center;
+
+  border-top-left-radius: 10px;
+
+  border-top-right-radius: 10px;
+
+  border-top: black;
+
+  border-width: 2px;
+}
+
+.icon {
+  color: white;
+
+  margin-bottom: 4px;
+
+  font-size: 22px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button {
+  background-color: rgb(252, 247, 0);
+  color: #004568;
+  border-radius: 50%;
+  font-size: medium;
+  padding: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-right: 10px;
+  float: right;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.gambar {
+  width: 100%;
+  height: auto;
+  border: groove rgb(0, 0, 0);
+  border-width: 10px;
+  margin: auto;
+}
+
+.judul {
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-bottom: 1px;
+  padding-top: 0%;
+  align-items: center;
+  text-align: center;
+}
+
+.box {
+  padding-top: 1%;
+}
+
+.iconWrapper {
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  text-decoration: none;
+
+  color: white;
+
+  font-family: Verdana;
+
+  padding: 5px 0;
+
+  font-size: 12px;
+}
+
+#titleGroup {
+  margin: 0;
+
+  font-size: 18px;
+
+  color: white;
+
+  font-family: Verdana;
+
+  font-weight: bolder;
+
+  font-size: 16px;
+
+  padding-left: 10px;
+}
+
+h3 {
+  align-items: center;
+  text-align: center;
+  margin: auto;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
